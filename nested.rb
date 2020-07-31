@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-return grace_hopper[0]
+return :grace_hopper[0]
 end
 
 def alan_kay_is_known_for
